@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.loginScreen {
+  width: 400px;
+  margin: auto;
+}
+
+.titleDiv {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.titleLbl {
+  color: rgb(0, 188, 212);
+  font-size: 24px;
+}
+
+.mainDiv {
+  height:450px;
+}
+
+.genderDiv {
+  margin-top: 30px;
+}
